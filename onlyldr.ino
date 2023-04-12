@@ -4,11 +4,11 @@
 #include "addons/RTDBHelper.h"
 #include "analogWrite.h"
 
-#define WIFI_SSID "Dev"
-#define WIFI_PASSWORD "Devvin17"
+#define WIFI_SSID "wifi name"
+#define WIFI_PASSWORD "wifi pw"
 
-#define API_KEY "AIzaSyB7kOfR6OkUaQh51p1Zr5jDCf5kSG3JMJY"
-#define DATABASE_URL "https://smart-street-light-syste-7a2e8-default-rtdb.firebaseio.com/"
+#define API_KEY "api"
+#define DATABASE_URL "db link"
 
 #define LDR 36
 #define PIR 26
