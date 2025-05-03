@@ -26,6 +26,39 @@ A smart and energy-efficient street lighting system that automatically adjusts l
 ├── README.md                # Project documentation
 ```
 
+## ⚙️ Installation & Setup
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/17devraj/Smart-street-light-system_IOT.git
+   ```
+
+2. **Open the Project:**
+
+   * Open `main.ino` using the **Arduino IDE**.
+
+3. **Install Required Board:**
+
+   * Go to **Tools > Board > Board Manager**.
+   * Install and select **ESP32** or the compatible board you're using.
+
+4. **Connect Your Hardware:**
+
+   * Attach **LDR** and **IR motion sensor** to analog/digital pins.
+   * Connect **LEDs or relays** for simulating street lights.
+
+5. **Upload the Code:**
+
+   * Connect your board via USB.
+   * Select the appropriate **COM port** and **board model**.
+   * Click **Upload**.
+
+6. **Test the Setup:**
+
+   * Place the sensors in a dark environment.
+   * Move in front of the IR sensor to trigger the light.
+
 ## ⚙️ How It Works
 
 1. **LDR Sensor:**
