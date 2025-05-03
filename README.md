@@ -19,7 +19,10 @@ A smart and energy-efficient street lighting system that automatically adjusts l
 ## 📂 Repository Contents
 
 ```
-├── smart_street_light.ino   # Main Arduino logic controlling the street light behavior
+├── main.ino   # Main Arduino logic controlling the street light behavior
+├── Frontend
+│   ├── js
+│   └── images
 ├── README.md                # Project documentation
 ```
 
@@ -54,9 +57,5 @@ A smart and energy-efficient street lighting system that automatically adjusts l
 
 ## 👨‍💻 Author
 
-**Dev Parmar**
-[GitHub](https://github.com/17devraj) | [LinkedIn](https://linkedin.com/in/yourprofile)
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
+**Devraj Parmar**
+[LinkedIn](https://linkedin.com/in/yourprofile)
