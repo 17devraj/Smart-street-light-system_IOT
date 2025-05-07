@@ -93,4 +93,4 @@ A smart and energy-efficient street lighting system that automatically adjusts l
 
 ## 👨‍💻 Author
 
-**Devraj Parmar** | [LinkedIn](https://linkedin.com/in/yourprofile)
+**Devraj Parmar** | [LinkedIn](https://linkedin.com/in/devraj-parmar)
