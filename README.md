@@ -21,8 +21,11 @@ A smart and energy-efficient street lighting system that automatically adjusts l
 ```
 ├── main.ino   # Main Arduino logic controlling the street light behavior
 ├── Frontend
+│   ├── css
+│   ├── fonts
+│   ├── images
 │   ├── js
-│   └── images
+│   └── dashboard.html
 ├── README.md                # Project documentation
 ```
 
