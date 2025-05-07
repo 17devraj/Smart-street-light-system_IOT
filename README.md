@@ -2,7 +2,7 @@
 
 A smart and energy-efficient street lighting system that automatically adjusts lighting based on environmental conditions and motion detection. This project, developed as part of my academic work, uses sensors and microcontrollers to optimize energy usage in public lighting infrastructure.
 
-## 🌟 Features
+## 🚀 Features
 
 * **Automatic Light Control:** Lights turn ON/OFF based on motion detection.
 * **Ambient Light Detection:** Adjusts brightness based on surrounding light.
@@ -16,7 +16,7 @@ A smart and energy-efficient street lighting system that automatically adjusts l
 * **Sensors:** LDR (Light Dependent Resistor), IR motion sensor
 * **Connectivity:** Basic IoT infrastructure for remote updates and control (if extended)
 
-## 📂 Repository Contents
+## 📂 Repository Structure
 
 ```
 ├── main.ino   # Main Arduino logic controlling the street light behavior
@@ -85,7 +85,7 @@ A smart and energy-efficient street lighting system that automatically adjusts l
 * Can be uploaded to any **ESP32 or Arduino Uno/Nano** board.
 * Power-efficient LEDs are used for lighting.
 
-## 🔮 Future Enhancements
+## 🔮 Future Improvements
 
 * Add remote monitoring via Wi-Fi and a dashboard.
 * Include solar power integration.
